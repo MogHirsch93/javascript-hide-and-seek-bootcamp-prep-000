@@ -8,7 +8,7 @@ function nestedTarget(){
 
 function increaseRankBy(n){
   let list = document.getElementsByTagName('.ranked-list');
-    let newList = list.map( (item) => parseInt(item) + n;
+    let newList = list.map( (item) => parseInt(item) + n
     )
   }
     return newList;
