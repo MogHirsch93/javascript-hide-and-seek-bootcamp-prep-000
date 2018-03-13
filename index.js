@@ -12,4 +12,3 @@ function increaseRankBy(n){
     )
   }
     return newList;
-}
